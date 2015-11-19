@@ -20,4 +20,4 @@ def interests():
 
 
 if __name__ == '__main__':
-    app.run(debug=True)		#debug=True is optional
+    app.run(8000)	#debug=True is optional
